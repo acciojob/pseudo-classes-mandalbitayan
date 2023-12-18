@@ -28,6 +28,7 @@ ul {
       width: 50%;
       padding: 10px;
       background-color: gray;
+		list-style-type: inside;
     }
     /* Styles for odd list items */
     li:nth-child(odd) {
